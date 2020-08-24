@@ -1,4 +1,4 @@
-# interestapp
+# Interest Application
 
 A new Flutter application.
 
